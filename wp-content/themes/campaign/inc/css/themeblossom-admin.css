@@ -1,0 +1,4 @@
+.rAds, .rAds span, .redux-messageredux-notice, .updatedredux-notice, .redux-dev-mode-notice-container {
+	display: none !important;
+	visibility: hidden !important;
+}

@@ -1,0 +1,1887 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid ""
+msgstr ""
+
+#. Text in function
+#: campaign/comments.php:62
+msgid " (required)"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/cart/cart-totals.php:87
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:548
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "%1$s installed successfully."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/auth/form-login.php:18
+#: campaign/woocommerce/auth/form-grant-access.php:16
+msgid "%s would like to connect to your store"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/fw/helpers.php:228
+msgid "&larr; Previous"
+msgstr ""
+
+#. Text in function
+#: campaign/comments.php:48
+msgid "&lsaquo; Older Comments"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/layout-functions.php:1
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.1 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.2 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.3 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.4 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.5 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.6 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.7 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.8 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "0.9 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "1 second"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "1.1 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "1.2 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "1.3 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "1.4 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "1.5 seconds"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "<span class=\"byline\"> by %1$s</span> "
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "<span class=\"byline\"> by %2$s</span> <span class=\"posted-on\">%1$s</span>"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/layout-functions.php:116
+msgid "<span class=\"meta-nav\">&lsaquo;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/fw/helpers.php:215
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/fw/helpers.php:215
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/fw/helpers.php:215
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "<span class=\"posted-on\">%1$s</span>"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/list/nav.php:23
+msgid "<span>&laquo;</span> Previous Events"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "<strong>Auto</strong> - Default value, the background image has the original width and height.<br><br><strong>Cover</strong> - Scale the background image so that the background area is completely covered by the image.<br><br><strong>Contain</strong> - Scale the image to the largest size such that both its width and height can fit inside the content area."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Activate"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Active"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-add-payment-method.php:49
+msgid "Add Payment Method"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Additional Spacing"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "All installations have been completed."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Animation Delay"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Animation Effect"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-login.php:96
+msgid "Anti-spam"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart.php:117
+#: campaign/woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/auth/form-grant-access.php:34
+msgid "Approve"
+msgstr ""
+
+#. Text in echo
+#: campaign/sidebar-events.php:51
+#: campaign/sidebar-issue.php:23
+#: campaign/sidebar.php:16
+#: campaign/sidebar-shop.php:23
+msgid "Archives"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Auto"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/cart/cart.php:100
+msgid "Available on backorder"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Available version:"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:105
+msgid "Avatar Size:"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Background"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:109
+msgid "Bigger"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/form-edit-address.php:1
+msgid "Billing Address"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/order/form-tracking.php:23
+msgid "Billing Email"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Bottom"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Bounce In"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Button with Border 1"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Button with Border 2"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "By "
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/shipping-calculator.php:20
+msgid "Calculate Shipping"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/month/nav.php:18
+msgid "Calendar Month Navigation"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/my-orders.php:62
+msgid "Cancel"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-totals.php:19
+msgid "Cart Totals"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Center"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Centered Content"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/mini-cart.php:66
+msgid "Checkout"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "Choose one"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Choose the responsive tablet display for this column"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:105
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:102
+msgid "Circular Avatar image"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/shipping-calculator.php:70
+msgid "City"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/single-product/add-to-cart/variable.php:31
+msgid "Clear selection"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/checkout/form-coupon.php:1
+msgid "Click here to enter your code"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Color"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Column Color"
+msgstr ""
+
+#. Text in function
+#: campaign/comments.php:62
+msgid "Comment (required)"
+msgstr ""
+
+#. Text in echo
+#: campaign/comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-account.php:49
+msgid "Confirm New Password"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Contain"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/details.php:96
+msgid "Cost:"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart.php:117
+msgid "Coupon"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart.php:117
+#: campaign/woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Cover"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-account.php:41
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Custom Class"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Custom ID"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/my-orders.php:33
+#: campaign/woocommerce/myaccount/my-orders.php:52
+msgid "Date"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/details.php:76
+#: campaign/woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/day/nav.php:16
+msgid "Day Navigation"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Default Spacing"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Default layout"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Default left and right spacings are set to 15px"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Default sidebar section of the site."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/auth/form-grant-access.php:35
+msgid "Deny"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/details.php:13
+msgid "Details"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Dismiss this notice"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:101
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:98
+msgid "Display avatar image"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:548
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: campaign/comments.php:62
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-account.php:33
+#: campaign/woocommerce/myaccount/form-login.php:82
+msgid "Email address"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/order/form-tracking.php:23
+msgid "Email you used during checkout."
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/organizer.php:29
+msgid "Email:"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/details.php:66
+msgid "End:"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/form-lost-password.php:28
+msgid "Enter a new password below."
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Enter custom CSS class"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Enter custom ID"
+msgstr ""
+
+#. Text in function
+#: campaign/tribe-events/modules/meta/details.php:115
+msgid "Event Tags:"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/bar.php:48
+msgid "Event Views Navigation"
+msgstr ""
+
+#. Text in function
+#: campaign/header.php:408
+#: campaign/inc/php/special/yoast-seo-functions.php:1
+msgid "Events"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/list/nav.php:17
+msgid "Events List Navigation"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Events Sidebar Widget Area"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "External Source"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Extra Small"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:1
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Fade In"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Fade In Down"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Fade In Left"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Fade In Right"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Fade In Up"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/bar.php:41
+#: campaign/tribe-events/modules/bar.php:71
+msgid "Find Events"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/list/single-event.php:113
+#: campaign/tribe-events/day/single-event.php:113
+msgid "Find out more"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-account.php:23
+msgid "First name"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Footer Area 1"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Footer Area 2"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Footer Area 3"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Footer Area 4"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Footer Wide Widget Area"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/order/form-tracking.php:22
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/loop/sale-flash.php:18
+#: campaign/woocommerce/single-product/sale-flash.php:18
+msgid "Free!"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/portfolio/views/archive.php:31
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/checkout/form-coupon.php:1
+msgid "Have a coupon?"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Hide Details"
+msgstr ""
+
+#. Text in function
+#: campaign/header.php:408
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/checkout/payment.php:53
+msgid "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; conditions</a>"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "In "
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Install"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Installed But Not Activated"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Installed version:"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Issues Sidebar Widget Area"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Large"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-account.php:27
+msgid "Last name"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/auth/form-grant-access.php:30
+msgid "Logged in as %s"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/auth/form-login.php:35
+#: campaign/woocommerce/myaccount/form-login.php:28
+#: campaign/woocommerce/myaccount/form-login.php:47
+#: campaign/woocommerce/global/form-login.php:39
+msgid "Login"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/auth/form-grant-access.php:30
+msgid "Logout"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-login.php:53
+#: campaign/woocommerce/global/form-login.php:46
+msgid "Lost your password?"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/form-lost-password.php:22
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Make it a 1/1 column"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Make it a 1/2 column"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Make it a 1/3 column"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Make it a 1/4 column"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Make it a 1/6 column"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Make it a 2/3 column"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Make it a 3/4 column"
+msgstr ""
+
+#. Text in echo
+#: campaign/sidebar-events.php:58
+#: campaign/sidebar-issue.php:30
+#: campaign/sidebar.php:23
+#: campaign/sidebar-shop.php:30
+msgid "Meta"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:107
+msgid "Mini"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Minimum required version:"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#. Text in function
+#: campaign/comments.php:62
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-account.php:45
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-lost-password.php:31
+msgid "New password"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/loop/sale-flash.php:18
+#: campaign/woocommerce/single-product/sale-flash.php:18
+msgid "New!"
+msgstr ""
+
+#. Text in function
+#: campaign/comments.php:49
+msgid "Newer Comments &rsaquo;"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/layout-functions.php:120
+msgid "Newer posts <span class=\"meta-nav\">&rsaquo;</span>"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/fw/helpers.php:228
+msgid "Next &rarr;"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/layout-functions.php:1
+msgid "Next &rsaquo;"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/list/nav.php:30
+msgid "Next Events <span>&raquo;</span>"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+#: campaign/inc/globals.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "No Delay"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "No Effect"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/mini-cart.php:52
+msgid "No products in the cart."
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "No-Repeat"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "None"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:108
+msgid "Normal"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Not Installed"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:86
+msgid "Number of posts:"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:83
+msgid "Number of tweets"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/order/order-again.php:16
+msgid "Order Again"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/order/form-tracking.php:22
+msgid "Order ID"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/my-orders.php:47
+msgid "Order Number"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:79
+msgid "Page ID:"
+msgstr ""
+
+#. Text in function
+#: campaign/content-issue.php:57
+#: campaign/content.php:83
+#: campaign/content-page.php:52
+msgid "Pages:"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/auth/form-login.php:30
+#: campaign/woocommerce/myaccount/form-login.php:39
+#: campaign/woocommerce/myaccount/form-login.php:89
+#: campaign/woocommerce/global/form-login.php:30
+msgid "Password"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/thankyou.php:28
+#: campaign/woocommerce/myaccount/my-orders.php:62
+msgid "Pay"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/checkout/form-pay.php:89
+msgid "Pay for order"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/form-pay.php:55
+msgid "Payment"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/venue.php:40
+#: campaign/tribe-events/modules/meta/organizer.php:24
+msgid "Phone:"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-shipping.php:59
+msgid "Please continue to the checkout and enter your full address to see if there are any available shipping methods."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/checkout/payment.php:23
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Plugin"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Plugin activation failed."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Position"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/php/fw/helpers.php:212
+msgid "Post navigation"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/shipping-calculator.php:78
+msgid "Postcode / Zip"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/php/fw/helpers.php:184
+msgid "Posts navigation"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Pre-Packaged"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart.php:26
+msgid "Price"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Primary - No Border"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/form-pay.php:20
+#: campaign/woocommerce/cart/cart.php:25
+msgid "Product"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart.php:27
+msgid "Quantity"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/single-product/rating.php:27
+msgid "Rated %s out of 5"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-lost-password.php:35
+msgid "Re-enter new password"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/icon-box/views/view.php:62
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+#: campaign/content-issue.php:94
+#: campaign/content.php:168
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/tb-carousel/views/view.php:113
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/tb-issues/views/view.php:84
+msgid "Read more"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/widgets/facebook-page-stream/views/widget.php:121
+msgid "Read more &raquo;"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Recommended"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-login.php:66
+#: campaign/woocommerce/myaccount/form-login.php:103
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:95
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:92
+msgid "Regular"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-login.php:49
+#: campaign/woocommerce/global/form-login.php:42
+msgid "Remember me"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/cart/cart.php:100
+msgid "Remove this item"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Repeat"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Repeat-X"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Repeat-Y"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:548
+msgid "Reply"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Required"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Required Update not Available"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Requires Update"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/form-lost-password.php:50
+msgid "Reset Password"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Responsive Layout for Tablet"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-empty.php:
+msgid "Return To Shop"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Return to the dashboard"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Rotate In"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/loop/sale-flash.php:18
+#: campaign/woocommerce/single-product/sale-flash.php:18
+msgid "Sale!"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/form-lost-password.php:50
+msgid "Save"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-address.php:45
+msgid "Save Address"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-edit-account.php:59
+msgid "Save changes"
+msgstr ""
+
+#. Text in echo
+#: campaign/content-none.php:37
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: campaign/content-none.php:36
+#: campaign/content-none.php:37
+msgid "Search for:"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Secondary - No Border"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/shipping-calculator.php:26
+msgid "Select a country&hellip;"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/shipping-calculator.php:50
+msgid "Select a state&hellip;"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Select how will the background repeat"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Select the background color"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Select the background for your column"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Select the background size"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Select the column color"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Select the horizontal background position"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Select the vertical background position"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/cart/cart-shipping.php:86
+#: campaign/woocommerce/cart/cart-totals.php:46
+msgid "Shipping"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/cart/cart-shipping.php:14
+msgid "Shipping #%d"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/form-edit-address.php:1
+msgid "Shipping Address"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-shipping.php:14
+msgid "Shipping and Handling"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Shop Sidebar Widget Area"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Show Details"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/loop/result-count.php:27
+msgid "Showing all %d results"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Sidebar for event pages."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Sidebar for issues pages."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Sidebar for shop pages."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/payment.php:43
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the <em>Update Totals</em> button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Size"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:96
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:93
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Small"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/checkout/form-pay.php:76
+msgid "Sorry, it seems that there are no available payment methods for your location. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/checkout/payment.php:23
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/form-add-payment-method.php:37
+msgid "Sorry, it seems that there are no payment methods which support adding a new payment method. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Source"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/details.php:61
+msgid "Start:"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/shipping-calculator.php:43
+#: campaign/woocommerce/cart/shipping-calculator.php:49
+#: campaign/woocommerce/cart/shipping-calculator.php:61
+msgid "State / county"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+#: campaign/woocommerce/myaccount/my-orders.php:34
+#: campaign/woocommerce/myaccount/my-orders.php:55
+msgid "Status"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+#: campaign/inc/php/fw/helpers.php:228
+msgid "Sticky"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Style 1"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-totals.php:24
+#: campaign/woocommerce/cart/mini-cart.php:60
+msgid "Subtotal"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:563
+msgid "Tags: "
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/checkout/thankyou.php:36
+#: campaign/woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/cart-errors.php:18
+msgid "There are some issues with the items in your cart (shown above). Please go back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/cart/cart-shipping.php:71
+#: campaign/woocommerce/cart/cart-shipping.php:77
+msgid "There doesn&lsquo;t seem to be any available shipping methods. Please double check your address, or contact us if you need any help."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/single-product/add-to-cart/variable.php:23
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/auth/form-grant-access.php:20
+msgid "This will give \"%s\" <strong>%s</strong> access which will allow it to:"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/details.php:81
+msgid "Time:"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:72
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:71
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/auth/form-login.php:22
+msgid "To connect to %1$s you need to be logged in. Log in to your store below, or %2$scancel and return to %1$s%3$s"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/order/form-tracking.php:20
+msgid "To track your order please enter your Order ID in the box below and press the \"Track\" button. This was given to you on your receipt and in the confirmation email you should have received."
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Top"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-totals.php:78
+#: campaign/woocommerce/cart/cart.php:28
+#: campaign/woocommerce/myaccount/my-orders.php:35
+#: campaign/woocommerce/myaccount/my-orders.php:58
+msgid "Total"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/order/form-tracking.php:26
+msgid "Track"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Type"
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/facebook-page-stream/class-widget-facebook-page-stream.php:93
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:90
+msgid "Type of list:"
+msgstr ""
+
+#. Text in function
+#: campaign/comments.php:62
+msgid "URL"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/thankyou.php:18
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction."
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/tb-events/views/view.php:6
+msgid "Upcoming Events"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Update"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart.php:124
+msgid "Update Cart"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:1
+msgid "Update Required"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/shipping-calculator.php:83
+msgid "Update Totals"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Update recommended"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Use default left and right spacing?"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "Use this option in order to control how this column behaves on tablets (and devices with the resoution between 768px - 990px)."
+msgstr ""
+
+#. Text in echo
+#: campaign/inc/widgets/twitter/class-widget-twitter.php:77
+msgid "User"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/myaccount/form-lost-password.php:24
+#: campaign/woocommerce/global/form-login.php:26
+msgid "Username or email"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/auth/form-login.php:26
+#: campaign/woocommerce/myaccount/form-login.php:35
+msgid "Username or email address"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "Version"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/myaccount/my-orders.php:62
+msgid "View"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/bar.php:49
+msgid "View As"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/mini-cart.php:65
+msgid "View Cart"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/tb-portfolio/views/view.php:96
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/tb-events/views/view.php:6
+msgid "View More"
+msgstr ""
+
+#. Text in echo
+#: campaign/tribe-events/modules/meta/venue.php:45
+#: campaign/tribe-events/modules/meta/organizer.php:34
+#: campaign/tribe-events/modules/meta/details.php:121
+msgid "Website:"
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/widget-areas.php:1
+msgid "Wide Widget Area."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/class-tgm-plugin-activation.php:665
+msgid "WordPress Repository"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+#: campaign/inc/globals.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#. Text in echo
+#: campaign/woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/php/campaign_helpers.php:553
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: campaign/inc/globals.php:1
+msgid "Zoom In"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "bottom"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "left"
+msgstr ""
+
+#. Text in function
+#: campaign/woocommerce/single-product/rating.php:29
+msgid "out of %s5%s"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "right"
+msgstr ""
+
+#. Text in function
+#: campaign/framework-customizations/extensions/shortcodes/shortcodes/column/options.php:1
+msgid "top"
+msgstr ""

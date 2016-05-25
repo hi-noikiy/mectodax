@@ -1,0 +1,696 @@
+body {
+  font-weight: 100 !important;
+}
+strong, b {
+  font-weight: bold !important;
+}
+p {
+  margin-bottom: 20px !important;
+}
+.header-main {
+    padding: 0 !important;
+    position: absolute;
+    width: 100%;
+    background-color: rgba(255,255,255,.85) !important;
+    border-bottom: solid 1px #e4e4e4;
+}
+.masthead-fixed .site-main {
+    margin-top: 0 !important;
+}
+.fw-col-xs-12 {
+	width: 100%
+}
+#footer-navigation {
+    margin-top: 100px;
+    padding: 0px 0 !important;
+}
+
+::selection {
+  background: #ff5f56 !important;
+  color: #fff !important;
+  text-shadow: none;
+}
+
+/* MENU */
+
+#primary-navigation ul ul a {
+    background-color: rgba(255,255,255,.85) !important;
+}
+#primary-navigation ul ul a:hover {
+    background-color: #ff5f56 !important;
+    color: #fff !important;
+}
+#primary-navigation div div li > a, #primary-navigation div > ul ul {
+	background-color: transparent !important;
+}
+#primary-navigation div div li > a, #primary-navigation ul ul a {
+    color: #ff5f56 !important;
+}
+.primary-navigation li li {
+     border-top: 0 !important; 
+     border-bottom: 0 !important; 
+}
+.navbar-nav li.soc i {
+  font-size: 18px;
+}
+.navbar-nav li.soc a {
+  padding-left: 8px !important;
+  padding-right: 8px !important;
+}
+.navbar-nav li.soc a:hover {
+  background-color: transparent !important;
+  background: transparent !important;
+  color: #000 !important;
+}
+.navbar-nav > li > a {
+     padding-top: 0px !important; 
+     padding-bottom: 0px !important;  
+}
+#primary-navigation > div > ul > li > a, #overlay-menu-holder span, #primary-navigation ul ul a {
+    text-transform: initial !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+}
+
+/* SLIDER */
+
+#rev_slider_1_1 .tp-caption {
+  text-shadow: 2px 2px 7px rgba(0, 0, 0, .5);
+}
+
+
+/* CALL */
+.call-to-action-cols h3 {
+    text-transform: initial !important;
+}
+.tb-icon-box p {
+  font-size: 16px;
+}
+
+/* GRID BLOG */
+
+.grid_blog .item-grid {
+  width: 25%;
+  float: left;
+}
+.grid_blog .item-grid {
+  position: relative;
+}
+
+.grid_blog .item-grid .info {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  border: 0;
+  color: #fff;
+  text-align: center;
+}
+.grid_blog .item-grid .info .categoria {
+  margin-top: 20px;
+  display: block;
+}
+.grid_blog .item-grid .info h3.nombre_post,
+.entry-header .entry-title {
+  color: #fff;
+  text-align: center;
+  font-family: Lora;
+  font-size: 24px;
+  margin-bottom: 35px;
+}
+.grid_blog .item-grid .info a,
+.c-nutricion a,
+.c-bienestar a,
+.c-cocina a,
+.c-patologia-y-nutricion a {
+  color: #fff;
+  border: 2px solid #fff;
+  padding: 12px;
+  text-decoration: none !important;
+  display: inline-block;
+  font-weight: 400;
+}
+.grid_blog .item-grid .info.bg-bienestar a:hover,
+.c-bienestar a:hover {
+  background-color: #fff;
+  color: #0e4aa3;
+}
+.grid_blog .item-grid .info.bg-cocina a:hover,
+.c-cocina a:hover {
+  background-color: #fff;
+  color: #ff8420;
+}
+.grid_blog .item-grid .info.bg-nutricion a:hover,
+.c-nutricion a:hover {
+  background-color: #fff;
+  color: #2ce2d7;
+}
+.grid_blog .item-grid .info.bg-patologia-y-nutricion a:hover,
+.c-patologia-y-nutricion a:hover {
+  background-color: #fff;
+  color: #f63a81;
+}
+
+.bg-bienestar {
+  background-color: #0e4aa3 !important;
+}
+.bg-cocina {
+  background-color: #ff8420 !important;
+}
+.bg-nutricion {
+  background-color: #2ce2d7 !important;
+}
+.bg-patologia-y-nutricion {
+  background-color: #f63a81 !important;
+}
+
+/* CONTACTO */
+
+.contacto h1, .contacto label {
+  color: #fff;
+}
+.contacto div < input[type="submit"] {
+  text-align: center !important;
+}
+.contacto input[type="submit"] {
+  background-color: #ff5f56;
+}
+
+/* banner-contactanos */
+
+.banner-contactanos h2 {
+  color: #fff;
+  font-size: 50px;
+  text-shadow: 2px 2px 7px rgba(0, 0, 0, .7);
+}
+.banner-contactanos a, a.naranja {
+  background-color: #ff5f56;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.banner-contactanos a:hover, a.naranja:hover {
+  text-decoration: none;
+  color: #ff5f56;
+  background-color: #fff;
+}
+
+
+
+.conoce, .conoce h1 {
+  color: #fff;
+}
+.borde-imagen img {
+  border: 1px solid #ff5f56;
+}
+.justificado p {
+  text-align: justify;
+}
+.grande {
+  font-family: "Source Serif Pro";
+  font-size: 25px;
+}
+.estudios {
+  margin-bottom: 100px;
+}
+
+
+
+/* single */
+
+.encategoria {
+  display: table;
+    width: 100%;
+}
+.encategoria .title {
+  display: table-cell;
+  vertical-align: middle;
+  text-transform: uppercase;
+}
+.encategoria .title span {
+  background-color: #fff;
+  padding-right: 10px;
+  font-size: 14px;
+  font-weight: 600;
+}
+.encategoria .ico {
+  display: table-cell;
+  width: 40px;
+  height: 40px;
+}
+
+.encategoria + hr {
+  margin-top: -20px;
+  margin-bottom: 40px;
+}
+
+.encategoria.nutricion .title {
+  color: #2ce2d7;
+}
+.encategoria.nutricion + hr {
+  border-top: 2px solid #2ce2d7;
+}
+
+.encategoria.cocina .title {
+  color: #ff8420;
+}
+.encategoria.cocina + hr {
+  border-top: 2px solid #ff8420;
+}
+
+.encategoria.patologia-y-nutricion .title {
+  color: #f63a81;
+}
+.encategoria.patologia-y-nutricion + hr {
+  border-top: 2px solid #f63a81;
+}
+
+.encategoria.bienestar .title {
+  color: #0e4aa3;
+}
+.encategoria.bienestar + hr {
+  border-top: 2px solid #0e4aa3;
+}
+
+
+/* sidebar */
+
+.post_sidebar {
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+.post_sidebar .texto {
+  float: left;
+  width: 70%;
+}
+#secondary h3 {
+  font-family: "Source Serif Pro" !important;
+  text-transform: initial !important;
+  font-size: 28px !important;
+  margin-bottom: 30px;
+}
+.post_sidebar a, .post_sidebar a:hover {
+  text-decoration: none;
+}
+.post_sidebar a:hover p {
+  color: #000;
+}
+.post_sidebar h5 {
+  font-family: "Source Serif Pro";
+  margin-left: 15px;
+  margin-top: 0;
+  margin-bottom: 8px;
+  line-height: 20px;
+}
+.post_sidebar p {
+  margin-bottom: 0px !important;
+  padding-left: 15px;
+  line-height: 18px;
+  color: #666666;
+}
+.post_sidebar .image {
+  float: left;
+  width: 30%;
+}
+.post_sidebar .image img {
+  width: 100%;
+  height: auto;
+}
+.post_sidebar .image .ico {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.post_sidebar.nutricion .ico,
+.c-nutricion,
+.date-box.nutricion {
+  background-color: #2ce1d6 !important;
+}
+.post_sidebar.cocina .ico,
+.c-cocina,
+.date-box.cocina {
+  background-color: #ff8420 !important;
+}
+.post_sidebar.patologia-y-nutricion .ico,
+.c-patologia-y-nutricion,
+.date-box.patologia-y-nutricion {
+  background-color: #f63a81 !important;
+}
+.post_sidebar.bienestar .ico,
+.c-bienestar,
+.date-box.bienestar {
+  background-color: #0e4aa3 !important;
+}
+
+.post_sidebar.nutricion h5 {
+  color: #2ce1d6;
+}
+.post_sidebar.cocina h5 {
+  color: #ff8420;
+}
+.post_sidebar.patologia-y-nutricion h5 {
+  color: #f63a81;
+}
+.post_sidebar.bienestar h5 {
+  color: #0e4aa3;
+}
+
+.buscar {
+  margin-bottom: 50px !important;
+}
+.buscar input {
+  border-radius: 0 !important;
+  border: 1px solid #c2c2c2;
+}
+
+.buscar input::-webkit-input-placeholder {
+  color:#666;
+  font-style: normal;
+  padding-top: 3px;
+  padding-left: -5px;
+  text-transform: uppercase;
+}
+.buscar input::-moz-placeholder {
+  color:#666;
+  font-style: normal;
+  padding-top: 3px;
+  padding-left: -5px;
+  text-transform: uppercase;
+}
+.buscar input:-ms-input-placeholder {
+  color:#666;
+  font-style: normal;
+  padding-top: 3px;
+  padding-left: -5px;
+  text-transform: uppercase;
+}
+.buscar input:-moz-placeholder {
+  color:#666;
+  font-style: normal;
+  padding-top: 3px;
+  padding-left: -5px;
+  text-transform: uppercase;
+}
+
+
+/* blog */
+
+.featured-image-holder.show-date .date-box.normal {
+    top: 15px;
+    left: 0px !important;
+    width: 80px;
+    height: 40px !important;
+    border-radius: 0px !important;
+}
+.featured-image-holder.show-date .date-box div {
+    position: relative;
+     top: 50%; 
+     -webkit-transform: translateY(-55%) !important; 
+    -ms-transform: translateY(-55%) !important;
+     transform: translateY(-55%) !important; 
+    text-align: center;
+}
+.featured-image-holder.show-date .date-box span {
+    display: inline !important; 
+    font-size: 16px !important;
+    margin: 0;
+}
+.site-content .entry-content {
+     padding-top: 0px !important; 
+}
+.featured-image-holder {
+    position: relative;
+    display: block !important;
+    overflow: hidden;
+    max-width: initial; 
+    width: 100%;
+    height: auto;
+}
+.featured-image-holder img {
+    width: 100%;
+}
+
+.c-nutricion,
+.c-bienestar,
+.c-cocina,
+.c-patologia-y-nutricion {
+  color: #fff;
+  padding: 20px;
+}
+.entry-header .entry-title {
+  margin-bottom: 15px;
+}
+.articulos-blog article:nth-child(4),
+.articulos-blog article:nth-child(7),
+.articulos-blog article:nth-child(10),
+.articulos-blog article:nth-child(13),
+.articulos-blog article:nth-child(16),
+.articulos-blog article:nth-child(19),
+.articulos-blog article:nth-child(22) {
+  clear: both;
+}
+
+#archive-navigation {
+  clear: both;
+}
+
+#main-content {
+    padding: 0px 0 !important;
+}
+
+
+
+/* Responsivo */
+
+@media screen and (min-width: 992px) {
+  .mmenu-link {
+    display: none !important;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .container {
+    width: 100% !important;
+  }
+
+  /* menú responsivo */
+
+  .mmenu-link {
+    display: block !important;
+  }
+  #primary-navigation {
+    display: none;
+  }
+  #site-branding {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  #tb-responsive-nav-trigger {
+    color: #ff5f56 !important;
+  }
+
+  .mm-search {
+    display: none !important;
+  }
+  .mm-listview, .mm-listview > li {    
+    display: block !important;
+    width: 100%;
+    padding: 0;
+    margin: 0 !important;
+  }
+  .mm-listview > li a {
+    padding: 15px 8px !important;
+  }
+  .mm-listview > li:not(.mm-divider):after {
+    left: 0px !important;
+  }
+  .mm-menu.mm-theme-dark {
+    background: #ff5f56 !important;
+  }
+
+  .hp-title-sections h1, h1, .banner-contactanos h2 {
+    font-size: 40px !important;
+  }
+
+
+  .grid_blog .item-grid {
+    width: 50%;
+    height: 280px;
+    overflow: hidden;
+  }
+  .grid_blog .item-grid img.image-sola {
+    width: 100%;
+
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+  .call-to-action-cols {
+    width: 33.333% !important;
+  }
+  .contacto-form {
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+  }
+  .post_sidebar .image {
+    width: 50%;
+  }
+  .post_sidebar .texto {
+    width: 100%;
+    margin-top: 10px;
+  }
+  .post_sidebar h5, .post_sidebar p {
+    margin-left: 0px;
+    padding-left: 0px
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .articulos-blog article:nth-child(4),
+  .articulos-blog article:nth-child(7),
+  .articulos-blog article:nth-child(10),
+  .articulos-blog article:nth-child(13),
+  .articulos-blog article:nth-child(16),
+  .articulos-blog article:nth-child(19),
+  .articulos-blog article:nth-child(22) {
+    clear: initial;
+  }
+  .articulos-blog article:nth-child(3),
+  .articulos-blog article:nth-child(5),
+  .articulos-blog article:nth-child(7),
+  .articulos-blog article:nth-child(9),
+  .articulos-blog article:nth-child(11),
+  .articulos-blog article:nth-child(13),
+  .articulos-blog article:nth-child(15) {
+    clear: both;
+  }
+
+  .post_sidebar {
+    width: 100%
+  }
+  .post_sidebar .image {
+    width: 20%;
+  }
+  .post_sidebar .texto {
+    width: 80%;
+    margin-top: 0px;
+  }
+  .post_sidebar h5, .post_sidebar p {
+    margin-left: 0px;
+    padding-left: 20px
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .call-to-action-cols {
+    width: 100% !important;
+  }
+  .tb-icon-box {
+    overflow: hidden;
+    display: table;
+  }
+  #main .call-to-action-cols .tb-icon-box-image {
+    display: table-cell;
+  }
+  #main .call-to-action-cols .tb-icon-box-description {
+    display: table-cell;
+  }
+  .padding15-xs {
+    padding: 10px 10px !important;
+  }
+
+  .hp-title-sections h1 {
+    line-height: 50px !important;
+  }
+  p, h1, h2, h3, h4, h5, h6 {
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+  }
+  .tb-icon-box-description p, .tb-icon-box-description h3 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+  .grid_blog .item-grid .info {
+    padding: 0px;
+  }
+  .grid_blog .item-grid .info h3.nombre_post, .entry-header .entry-title {
+    font-size: 18px;
+    margin-bottom: 15px;
+    line-height: 24px;
+  }
+  .grid_blog .item-grid {
+    height: 235px;
+  }
+  .textaligncenter, .textaligncenter h1, .textaligncenter h2, .textaligncenter h3, .textaligncenter h4, .textaligncenter h5, .textaligncenter h6 {
+    text-align: center !important;
+    width: 100%;
+  }
+
+
+  .c-nutricion, .c-bienestar, .c-cocina, .c-patologia-y-nutricion {
+    padding: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .grid_blog .item-grid {
+    width: 100%;
+    height: 210px;
+  }
+  .grid_blog .item-grid img.image-sola {
+    -ms-transform: translate(0,-20%); /* IE 9 */
+    -webkit-transform: translate(0,-20%); /* Safari */
+    transform: translate(0,-20%);
+  }
+  .grid_blog {
+        margin-bottom: 30px;
+    display: inline-block;
+  }
+  .hp-title-sections h1, h1, .banner-contactanos h2 {
+    font-size: 35px !important;
+    line-height: 35px !important;
+  }
+
+  .articulos-blog .post {
+    width: 100%;
+  }
+  .busqueda {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+  .post_sidebar .image {
+    width: 35%;
+  }
+  .post_sidebar .texto {
+    width: 65%;
+    margin-top: 0px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

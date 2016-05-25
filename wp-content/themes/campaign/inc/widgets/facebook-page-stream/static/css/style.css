@@ -1,0 +1,73 @@
+
+.wrap-facebook ul:not(.slides) li {
+	margin: 10px 0;
+	padding-bottom: 20px;
+	overflow: hidden;
+	display: inline-block;
+	width: 100%;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.wrap-facebook ul:not(.slides) li:last-child {
+	border-bottom: none;
+}
+
+.wrap-facebook li .facebook_data {
+	margin-bottom: 10px;
+}
+
+.wrap-facebook li .facebook_time {
+	font-size: 80%;
+	text-align: right;
+}
+
+.facebook_avatar {
+	padding-right: 20px;
+	overflow: hidden;
+}
+
+.facebook_avatar img {
+	opacity: 0.9;
+	transition: all 200ms ease-in-out;
+}
+
+.facebook_avatar {
+	display: none;
+
+}
+
+#wide-footer .facebook_avatar {
+	display: inline-block;
+}
+
+#wide-footer .facebook_avatar img.img-circle {
+	width: 110px !important;
+	height: 110px !important;
+	min-width: 110px !important;
+	min-height: 110px !important;
+}
+
+#wide-footer .facebook-circle-avatar .facebook_avatar {
+	min-width: 130px;
+	min-height: 130px;
+}
+
+
+.facebook_avatar img:hover {
+	opacity: 1;
+}
+
+
+.wrap-facebook.flexslider {
+	margin: 0;
+	background: none;
+	border: none;
+	-webkit-border-radius: 0px;
+	-moz-border-radius: 0px;
+	-o-border-radius: 0px;
+	border-radius: 0px;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	-o-box-shadow: none;
+	box-shadow: none;
+}
