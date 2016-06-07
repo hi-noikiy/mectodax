@@ -465,6 +465,9 @@ p {
     padding: 0px 0 !important;
 }
 
+footer .clear span {
+  margin-right: 30px;
+}
 
 
 /* Responsivo */

@@ -133,7 +133,7 @@ endif;
 			
 			<div class="row">
 
-			<div class="disclaimer-area col-xs-8 col-sm-8 col-md-6">
+			<div class="disclaimer-area col-xs-12 col-sm-8 col-md-10">
 			
 			<nav>
 				<?php wp_nav_menu( array( 'theme_location' => 'footer_navigation', 'depth' => 1, 'fallback_cb' => false ) ); ?>
@@ -142,17 +142,18 @@ endif;
 			<div class="clear"></div>
 
 			<div class="clear">
+				<span>Nutrimentta © 2016. Derechos reservados.</span> <span><a href="<?php echo get_site_url(); ?>/aviso-de-privacidad">Aviso de privacidad</a></span> <span>Diseño: <a href="http://estrategasdigitales.com/" target="_blank">Estrategas Digitales</a></span>
 				<?php
-				$footerText = campaign_default_array($campaign_theme_options, 'footer-text', '');
-				if ($footerText) {
-					echo apply_filters( 'the_content', $footerText);
-				}
+				// $footerText = campaign_default_array($campaign_theme_options, 'footer-text', '');
+				// if ($footerText) {
+				// 	echo apply_filters( 'the_content', $footerText);
+				// }
 				?>
 			</div>
 
 			</div>
 
-			<div class="col-xs-12 col-xs-4 col-sm-4 col-md-6">
+			<div class="col-xs-12 col-sm-4 col-md-2">
 
 			<?php
 			$emptyArray = array();
