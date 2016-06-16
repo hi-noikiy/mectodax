@@ -70,8 +70,8 @@ if ( ! function_exists('campaign_paged_navigation') ) {
 				'total' => $total,
 				'type' => 'list',
 				'prev_next' => $prev_next,
-				'prev_text' => esc_html__('&lsaquo; Previous', 'campaign'),
-				'next_text' => esc_html__('Next &rsaquo;', 'campaign')
+				'prev_text' => esc_html__('&lsaquo; Anterior', 'campaign'),
+				'next_text' => esc_html__('Siguiente &rsaquo;', 'campaign')
 			));			
 		} else {
 			
@@ -84,8 +84,8 @@ if ( ! function_exists('campaign_paged_navigation') ) {
 				'total' => $total,
 				'type' => 'list',
 				'prev_next' => $prev_next,
-				'prev_text' => esc_html__('&lsaquo; Previous', 'campaign'),
-				'next_text' => esc_html__('Next &rsaquo;', 'campaign')
+				'prev_text' => esc_html__('&lsaquo; Anterior', 'campaign'),
+				'next_text' => esc_html__('Siguiente &rsaquo;', 'campaign')
 			));						
 		}
 		

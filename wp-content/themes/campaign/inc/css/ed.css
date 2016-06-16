@@ -469,6 +469,16 @@ footer .clear span {
   margin-right: 30px;
 }
 
+.page-numbers span.current {
+  background-color: #97c23b !important;
+}
+.page-numbers li a.btn-tb-primary {
+  background-color: #ff5f56 !important;
+}
+.page-numbers li a.btn-tb-primary:hover {
+  background-color: #e54f47 !important
+}
+
 
 /* Responsivo */
 
