@@ -46,6 +46,7 @@ p {
 #primary-navigation div div li > a, #primary-navigation ul ul a {
     color: #ff5f56 !important;
 }
+#primary-navigation ul ul a {width: 225px}
 .primary-navigation li li {
      border-top: 0 !important; 
      border-bottom: 0 !important; 
@@ -71,7 +72,46 @@ p {
     font-weight: 400 !important;
     font-size: 16px !important;
 }
-
+#menu-item-1106 a {
+  background-image: url(../../images/ico_nutricion_n.png);
+  background-size: 28px 28px;
+  background-repeat: no-repeat;
+  background-position: left 1px center;
+  padding-left: 30px !important; 
+}
+#menu-item-1106 a:hover {
+  background-image: url(../../images/ico_nutricion_b.png);
+}
+#menu-item-1107 a {
+  background-image: url(../../images/ico_cocina_n.png);
+  background-size: 28px 28px;
+  background-repeat: no-repeat;
+  background-position: left 1px center;
+  padding-left: 30px !important; 
+}
+#menu-item-1107 a:hover {
+  background-image: url(../../images/ico_cocina_b.png);
+}
+#menu-item-1108 a {
+  background-image: url(../../images/ico_bienestar_n.png);
+  background-size: 28px 28px;
+  background-repeat: no-repeat;
+  background-position: left 1px center;
+  padding-left: 30px !important; 
+}
+#menu-item-1108 a:hover {
+  background-image: url(../../images/ico_bienestar_b.png);
+}
+#menu-item-1109 a {
+  background-image: url(../../images/ico_patologia_n.png);
+  background-size: 28px 28px;
+  background-repeat: no-repeat;
+  background-position: left 1px center;
+  padding-left: 30px !important; 
+}
+#menu-item-1109 a:hover {
+  background-image: url(../../images/ico_patologia_b.png);
+}
 /* SLIDER */
 
 #rev_slider_1_1 .tp-caption {
@@ -163,6 +203,30 @@ p {
 }
 .bg-patologia-y-nutricion {
   background-color: #f63a81 !important;
+}
+
+
+ul.cats {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+  text-align: center;
+  margin-bottom: 40px;
+}
+ul.cats li {
+  display: inline-block;
+  margin-bottom: 3px;
+}
+ul.cats li a {
+  text-decoration: none;
+  padding: 7px;
+  background-color: #97c23b;
+  color: #fff;
+  display: block;
+}
+ul.cats li a:hover, ul.cats li.current-cat a {
+  text-decoration: none;
+  background-color: #ff5f56;
 }
 
 /* CONTACTO */
@@ -543,7 +607,33 @@ footer .clear span {
     width: 100%;
 
   }
+  
 
+
+  #menu-item-1106 a {
+  background-image: url(../../images/ico_nutricion_b.png);
+}
+#menu-item-1106 a:hover {
+  background-image: url(../../images/ico_nutricion_b.png);
+}
+#menu-item-1107 a {
+  background-image: url(../../images/ico_cocina_b.png);
+}
+#menu-item-1107 a:hover {
+  background-image: url(../../images/ico_cocina_b.png);
+}
+#menu-item-1108 a {
+  background-image: url(../../images/ico_bienestar_b.png);
+}
+#menu-item-1108 a:hover {
+  background-image: url(../../images/ico_bienestar_b.png);
+}
+#menu-item-1109 a {
+  background-image: url(../../images/ico_patologia_b.png);
+}
+#menu-item-1109 a:hover {
+  background-image: url(../../images/ico_patologia_b.png);
+}
 }
 
 @media screen and (max-width: 768px) {

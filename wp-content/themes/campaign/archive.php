@@ -27,7 +27,18 @@ get_header(); ?>
 						the_archive_title( '<h1 class="entry-title tbWow fadeIn text-center">', '</h1>' );
 					?>
 				</div>
-			</div>		
+			</div>
+
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<ul class="cats">
+						<?php echo wp_list_categories(array(
+							'title_li' => '',
+						)); ?>
+					</ul>
+				</div>
+			</div>
+
 
 			<div class="row">
 				<div class="col-md-4 col-md-offset-8 col-sm-4 col-sm-offset-8 col-xs-6 col-xs-offset-6 busqueda">

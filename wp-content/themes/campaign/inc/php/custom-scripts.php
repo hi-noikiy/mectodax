@@ -33,7 +33,7 @@ if (!function_exists('campaign_custom_footer_scripts')) {
 
 			var heightHeader = jQuery('#masthead').height();
 			heightHeader2 = "-" + (heightHeader + 100);
-			heightHeader3 = "-" + (heightHeader + 350);
+			heightHeader3 = "-" + (heightHeader + 100);
 			var screenRes = jQuery(window).width();
 
 			var not_safari = true;
