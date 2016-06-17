@@ -355,10 +355,18 @@ ul.paloma li {
 
 .cuadro-verde {
   border: 2px solid #97c23b;
+  padding: 20px;
 }
-.costos {
+.cuadro-verde p:last-child {
+  margin-bottom: 0px;
+}
+.precios {
+  padding: 20px;
   background-color: #ff5f56;
   color: #fff;
+}
+.precios p:last-child {
+  margin-bottom: 0px;
 }
 
 /* sidebar */
