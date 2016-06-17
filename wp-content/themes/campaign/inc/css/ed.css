@@ -353,6 +353,13 @@ ul.paloma li {
   padding-left: 28px;
 }
 
+.cuadro-verde {
+  border: 2px solid #97c23b;
+}
+.costos {
+  background-color: #ff5f56;
+  color: #fff;
+}
 
 /* sidebar */
 
