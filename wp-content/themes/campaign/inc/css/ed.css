@@ -341,6 +341,16 @@ ul.cats li a:hover, ul.cats li.current-cat a {
   border-top: 2px solid #0e4aa3;
 }
 
+ul.paloma {
+  list-style: none;
+}
+ul.paloma li {
+  margin-bottom: 20px;
+  background-image: url(../../images/paloma.png);
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+
 
 /* sidebar */
 
