@@ -356,9 +356,10 @@ ul.paloma li {
 .cuadro-verde {
   border: 2px solid #97c23b;
   padding: 20px;
+  margin-bottom: 50px;
 }
 .cuadro-verde p:last-child {
-  margin-bottom: 0px;
+  margin-bottom: 0px !important;
 }
 .precios {
   padding: 20px;
@@ -366,7 +367,7 @@ ul.paloma li {
   color: #fff;
 }
 .precios p:last-child {
-  margin-bottom: 0px;
+  margin-bottom: 0px !important;
 }
 
 /* sidebar */
