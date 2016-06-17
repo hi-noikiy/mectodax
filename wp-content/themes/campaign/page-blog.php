@@ -26,6 +26,7 @@ if (!empty($selected_categories)) {
 <style type="text/css">
 	section#featured-image {display: none;}
 	#main {padding: 200px 0 0;}
+	
 </style>
 
 <div id="main-content" class="main-content">
@@ -62,97 +63,16 @@ if (!empty($selected_categories)) {
 		</div>
 		
 		<div class="row articulos-blog">
-		<?php
-		// $args['post_type'] = 'post'; 
+			<style type="text/css">
+			.alm-btn-wrap {clear: both !important;}
+			</style>
 		
-		// if ($main_cat > 0) {
-		// 	$args['cat'] = $main_cat;
-		// }
-		
-		// $paged = (get_query_var('paged')) ? get_query_var('paged') : 1;
-		// $args['paged'] = $paged;
-
-		$args = array(
-				
-				'post_type' => 'post',
-				'posts_per_page' => '6',				
-				'cat' => '-1',
-				'paged' => get_query_var('paged'),
-
-				);
-		
-		$customQuery = new WP_Query( $args );
+		<?php		
+		echo do_shortcode('[ajax_load_more post_type="post" category="bienestar,cocina,nutricion,patologia-y-nutricion" posts_per_page="6" scroll="false" transition="fade" button_label="Ver más"]');
 		?>
-
-		<?php if ( $customQuery->have_posts() ) : ?>
-
-			<?php /* Start the Loop */ ?>
-			<?php while ( $customQuery->have_posts() ) : $customQuery->the_post(); ?>
-
-			<?php
-			$postID = intval( get_the_ID() );
-			$postLink = get_permalink();
-			$postTitle = esc_attr( get_the_title() );
-			$post_thumbnail_id = get_post_thumbnail_id();
-			$excerpt = get_the_excerpt();
-			$category = get_the_category();
-			?>
-			<article id="post-<?php echo intval($postID); ?>" <?php post_class("post clearfix col-md-4 col-sm-4 col-xs-6"); ?>>
-				
-
-				
-
-				<div class="featured-image-holder show-date">
-					<div class="tbWow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-						<div class="date-box normal <?php echo $category[0]->slug ?>">
-							<div>
-								<span class="day"><?php echo get_the_date('d'); ?></span>
-								<span class="month"><?php echo get_the_date('M'); ?></span>
-							</div>
-						</div>
-						<a href="<?php echo $postLink; ?>">
-							<?php echo the_post_thumbnail(); ?>
-							<!-- <img src="http://localhost/nutrimenta/wp-content/uploads/2016/05/post3.jpg" width="300" height="300" class=" none" alt="Ensalada de quinoa" title="Ensalada de quinoa"> -->
-						</a>
-					</div>
-				</div>
-				
-				<div class="c-<?php echo $category[0]->slug ?> text-center">
-					<header class="entry-header">
-						<span class="categoria"><?php echo get_the_category_thumbnail($category[0]->term_id); ?> <?php echo $category[0]->cat_name; ?></span>
-				        <h3 class="entry-title tbWow fadeIn text-center"><?php if(is_sticky()) echo '<i class="fa fa-bookmark-o"></i> '; ?><?php the_title(); ?></h3>
-					</header>
-
-				    <div class="entry-content clearfix">
-				    	<p>
-				        	<?php echo $excerpt; ?>			        
-				        </p>
-				    </div>
-				    <div>
-				    	<a class="clearfix" href="<?php echo $postLink; ?>">LEER</a>
-				    </div>
-				</div>
-				<!-- <footer class="entry-meta clearfix">
-			        <?php campaign_info_line(1, 1, 1, 1, ' / '); ?>
-			    </footer> -->
-			</article>
-
-			<?php endwhile; ?>			
-
-			<?php	
-			
-			$navigation_choice = campaign_default_array($campaign_theme_options, 'blog-navigation-type', 'paged');			
-			$prev_next = campaign_default_array($campaign_theme_options, 'blog-navigation-paginated-prevnext', true);
-					
-			campaign_navigation($navigation_choice, $customQuery, $prev_next);		
-
-		else : ?>
-
-			<?php get_template_part( 'content', 'none' ); ?>
-
-		<?php endif; ?>
-
-			</div> <!-- row -->
+		
+		
+		</div> <!-- row -->
 
 		</div>
 

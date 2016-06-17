@@ -53,73 +53,14 @@ get_header(); ?>
 		
 		<div class="row articulos-blog">
 
-		<?php if ( have_posts() ) :	while ( have_posts() ) : the_post(); ?>
-
-			<?php
-			$postID = intval( get_the_ID() );
-			$postLink = get_permalink();
-			$postTitle = esc_attr( get_the_title() );
-			$post_thumbnail_id = get_post_thumbnail_id();
-			$excerpt = get_the_excerpt();
-			$category = get_the_category();
-			?>
-			<article id="post-<?php echo intval($postID); ?>" <?php post_class("post clearfix col-md-4 col-sm-4 col-xs-6"); ?>>
-				
-
-				
-
-				<div class="featured-image-holder show-date">
-					<div class="tbWow fadeIn" style="visibility: visible; animation-name: fadeIn;">
-						<div class="date-box normal <?php echo $category[0]->slug ?>">
-							<div>
-								<span class="day"><?php echo get_the_date('d'); ?></span>
-								<span class="month"><?php echo get_the_date('M'); ?></span>
-							</div>
-						</div>
-						<a href="<?php echo $postLink; ?>">
-							<?php echo the_post_thumbnail(); ?>
-							<!-- <img src="http://localhost/nutrimenta/wp-content/uploads/2016/05/post3.jpg" width="300" height="300" class=" none" alt="Ensalada de quinoa" title="Ensalada de quinoa"> -->
-						</a>
-					</div>
-				</div>
-				
-				<div class="c-<?php echo $category[0]->slug ?> text-center">
-					<header class="entry-header">
-						<span class="categoria"><?php echo get_the_category_thumbnail($category[0]->term_id); ?> <?php echo $category[0]->cat_name; ?></span>
-				        <h3 class="entry-title tbWow fadeIn text-center"><?php if(is_sticky()) echo '<i class="fa fa-bookmark-o"></i> '; ?><?php the_title(); ?></h3>
-					</header>
-
-				    <div class="entry-content clearfix">
-				    	<p>
-				        	<?php echo $excerpt; ?>			        
-				        </p>
-				    </div>
-				    <div>
-				    	<a class="clearfix" href="<?php echo $postLink; ?>">LEER</a>
-				    </div>
-				</div>
-
-			</article>
-
-		<?php 
-				endwhile;
-
-			else :
-				// If no content, include the "No posts found" template.
-				get_template_part( 'content', 'none' );
-
-			endif;
-		?>
-
+		<?php
+		if (is_category()) {
+			$cat = get_the_category();
+			$cualcat = $cat['0']->slug;
+			
+			echo do_shortcode('[ajax_load_more post_type="post" category="'.$cualcat.'" posts_per_page="6" scroll="false" transition="fade" button_label="Ver más"]');	
+		}
 		
-
-		<?php	
-		
-		$navigation_choice = campaign_default_array($campaign_theme_options, 'blog-navigation-type', 'paged');			
-		$prev_next = campaign_default_array($campaign_theme_options, 'blog-navigation-paginated-prevnext', true);
-				
-		campaign_navigation($navigation_choice, '', $prev_next);		
-
 		?>
 
 		</div> <!-- row -->

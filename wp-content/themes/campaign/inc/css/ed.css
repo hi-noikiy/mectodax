@@ -571,6 +571,22 @@ footer .clear span {
 .page-numbers li a.btn-tb-primary:hover {
   background-color: #e54f47 !important
 }
+.alm-btn-wrap {
+  clear: both;
+  text-align: center;
+  }
+.alm-btn-wrap #load-more, .alm-btn-wrap #load-more.done:hover  {
+  background-color: #ff5f56;
+  color: #fff;
+  }
+.alm-btn-wrap #load-more:hover {
+  background-color: #e54f47;
+  }
+  #load-more.done {
+    cursor: not-allowed;
+    opacity: .2;
+    outline: none;
+  }
 
 
 /* Responsivo */
@@ -637,7 +653,7 @@ footer .clear span {
     width: 100%;
 
   }
-  
+
 
 
   #menu-item-1106 a {
