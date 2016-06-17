@@ -624,7 +624,7 @@ footer .clear span {
 
   .hp-title-sections h1, h1, .banner-contactanos h2 {
     font-size: 40px !important;
-    line-height: 50px;
+    line-height: 50px !important;
   }
 
 
