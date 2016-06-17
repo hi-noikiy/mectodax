@@ -343,12 +343,14 @@ ul.cats li a:hover, ul.cats li.current-cat a {
 
 ul.paloma {
   list-style: none;
+  margin-left: 0;
 }
 ul.paloma li {
   margin-bottom: 20px;
   background-image: url(../../images/paloma.png);
   background-repeat: no-repeat;
   background-position: left top;
+  padding-left: 28px;
 }
 
 
