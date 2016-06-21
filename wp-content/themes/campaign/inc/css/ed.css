@@ -21,7 +21,6 @@ p {
 	width: 100%
 }
 #footer-navigation {
-    margin-top: 100px;
     padding: 0px 0 !important;
 }
 
@@ -587,6 +586,9 @@ footer .clear span {
     opacity: .2;
     outline: none;
   }
+.articulos-blog {
+  margin-bottom: 80px;
+}
 
 
 /* Responsivo */
