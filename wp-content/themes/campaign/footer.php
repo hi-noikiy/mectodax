@@ -161,7 +161,7 @@ endif;
 
 			if (!empty($footerLogoFile) && campaign_default_array($footerLogoFile, 'url', '')) :
 			?>
-			<h2 id="footer-logo"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="<?php echo esc_url( $footerLogoFile["url"] ); ?>" alt="<?php bloginfo( 'name' ); ?>"></a></h2>
+			<h2 id="footer-logo" class="text-center" style="width:100%;margin-bottom:30px;"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home"><img src="<?php echo esc_url( $footerLogoFile["url"] ); ?>" alt="<?php bloginfo( 'name' ); ?>"></a></h2>
 			<?php endif; ?>
 		
 			</div>
