@@ -54,7 +54,7 @@ if (!empty($selected_categories)) {
 		<div class="row">
 			<div class="col-md-4 col-md-offset-8 col-sm-4 col-sm-offset-8 col-xs-6 col-xs-offset-6 busqueda">
 				<div class="form-group has-feedback buscar">
-					<form role="search" method="get" id="searchform" class="searchform" action="http://localhost/nutrimenta">			  
+					<form role="search" method="get" id="searchform" class="searchform" action="<?php echo esc_url( home_url( '/' ) ); ?>">			  
 						<input type="text" class="form-control" name="s" id="s" aria-describedby="inputSuccess2Status" placeholder="Buscar artículos">
 					  	<span class="glyphicon glyphicon-search form-control-feedback" aria-hidden="true"></span>
 					</form>
