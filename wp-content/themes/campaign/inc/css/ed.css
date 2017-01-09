@@ -158,6 +158,11 @@ p {
   font-size: 24px;
   margin-bottom: 35px;
 }
+.grid_blog .item-grid .info h3.nombre_post {
+  font-size: 18px;
+  line-height: 26px;
+  margin-bottom: 15px;
+}
 .grid_blog .item-grid .info a,
 .c-nutricion a,
 .c-bienestar a,
